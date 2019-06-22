@@ -26,6 +26,7 @@ span {
 .blog__des {
     color: chartreuse;
 }
+<<<<<<< HEAD
 .cart {
     color: aquamarine;
 }
@@ -39,3 +40,9 @@ span {
 >>>>>>> Update style cart
 =======
 >>>>>>> Add new line for cat
+=======
+
+.cart {
+    color: aquamarine;
+}
+>>>>>>> Add style card
