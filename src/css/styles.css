@@ -16,7 +16,9 @@ span {
 .contact__des {
     color: blue
 }
-
+.contact__des2 {
+    color: chartreuse;
+}
 .blog__title {
     color: burlywood;
 }
