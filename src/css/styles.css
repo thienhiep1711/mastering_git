@@ -1,5 +1,12 @@
 body {
-    background-color: skyblue;
+    background-color: white;
+}
+
+h1 {
+    color: black
+}
+span {
+    color: aqua
 }
 
 .contact__title {
