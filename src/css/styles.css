@@ -16,3 +16,11 @@ span {
 .contact__des {
     color: blue
 }
+
+.blog__title {
+    color: blueviolet;
+}
+
+.blog__des {
+    color: chartreuse;
+}
